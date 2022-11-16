@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ... [Tell Me Jokes](https://tell-me-jokes.pollycon.co.uk/) - A little side project of mine using VueJS and API's
+- 🔭 I’m currently working on ... [Pollycon](https://pollycon.co.uk/) - This is where I will be able to showcase my projects / work.
 - 🌱 I’m currently learning ... VueJS
 - 👯 I’m looking to collaborate on ... Anything really, I enjoy learning new things!
 - 📫 How to reach me: ... hello@pollycon.co.uk
